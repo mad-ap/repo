@@ -3,3 +3,6 @@
 3 line master
 4 line master
 5 line master
+
+add line for feature
+second line want to conflict
