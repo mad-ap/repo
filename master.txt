@@ -4,5 +4,5 @@
 4 line master
 5 line master
 
-add line for feature
-second line want to conflict
+here instead i added this line
+and later this
